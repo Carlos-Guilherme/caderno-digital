@@ -1,5 +1,4 @@
 # Caderno-digital
-
 Este código cria uma interface gráfica de usuário (GUI) usando a biblioteca PySimpleGUI em Python. Quando o programa é executado, ele abre uma janela com um campo de
 texto multilinha e alguns botões: "Salvar", "Sair" e "Resetar".
 
